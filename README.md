@@ -166,4 +166,4 @@ These two things came together in JobSifter. I wanted to build a tool that could
 
 **“Is this job worth my time applying to?”**
 
-This became the motivation behind JobSifter — an assistant designed to look beyond simple keyword matches and provide a practical, evidence-based assessment of whether applying for a role is worth considering.
+This became the motivation behind JobSifter, an assistant designed to look beyond simple keyword matches and provide a practical, evidence-based assessment of whether applying for a role is worth considering.
