@@ -1,0 +1,55 @@
+AI Application Engineer
+
+Location: Birmingham, UK
+Employment Type: Full-time
+Experience Level: Junior / Mid-level
+Department: Software Engineering & AI
+
+About the Role
+
+We are looking for an AI Application Engineer to build and deploy software applications that incorporate modern artificial intelligence capabilities. You will primarily work on backend services and APIs while integrating AI and external language model services into production-oriented applications.
+
+The ideal candidate has strong Python development skills and practical experience building backend systems.
+
+Day to day responsibilities:
+
+- Design and develop backend applications using **Python**.
+- Build and maintain **REST APIs** for internal and external applications.
+- Develop backend services using frameworks such as FastAPI.
+- Integrate third-party APIs and AI services into software applications.
+- Containerise applications using **Docker**.
+- Use **Git** and collaborative software development workflows.
+- Work with databases and persistent application data.
+- Deploy and maintain applications in cloud environments.
+- Implement appropriate error handling, validation, logging, and testing.
+- Collaborate with software engineers and AI specialists to deliver production-ready AI features.
+
+Required Skills
+
+- Strong programming experience with Python.
+- Practical experience developing REST APIs.
+- Understanding of backend development and application architecture.
+- Experience using Docker for application containerisation.
+- Proficiency with Git and version-control workflows.
+- Understanding of databases and application data persistence.
+- Degree in Computer Science, Software Engineering, or a related technical discipline, or equivalent practical experience.
+
+Preferred Skills
+
+- Experience deploying applications using **AWS** or another cloud platform.
+- Experience integrating **LLM APIs**.
+- Experience building **AI-powered applications**.
+- Familiarity with FastAPI or similar Python web frameworks.
+- Experience working with SQL or relational databases.
+- Understanding of cloud deployment and application monitoring.
+
+Tools/Modules/Techniques
+Python, FastAPI, REST APIs, Docker, Git, AWS, databases, LLM APIs
+
+What We Offer
+
+Opportunity to build applications incorporating modern AI technologies.
+Hands-on experience with cloud infrastructure and backend engineering.
+Exposure to LLM-based application development.
+Collaborative environment spanning software engineering and artificial intelligence.
+Opportunities to develop expertise in scalable application architecture and deployment.

@@ -1,0 +1,55 @@
+Daniel Carter
+AI Application Engineer / Software Engineer Birmingham, UK | daniel.carter@example.com | +91 1234 567 890 | LinkedIn: linkedin.com/in/danielcarter
+Software Engineer with a BSc in Computer Science and practical experience developing backend applications and AI-powered software. Skilled in Python, REST API development, FastAPI, databases, Docker, Git, and AWS. Experienced in building and deploying LLM-powered applications and integrating external language model APIs into backend systems. Interested in scalable backend architecture and practical applications of generative AI.
+Education
+BSc Computer Science University of Birmingham, UK | 2019–2022
+Relevant coursework: Software Engineering, Database Systems, Web Development, Algorithms and Data Structures, Cloud Computing
+Technical Skills
+ Programming: Python
+ Backend Development: REST APIs, FastAPI, Backend Development
+ AI / LLM: LLM APIs, LLM Application Development, API Integration
+ Cloud: AWS
+ Containers: Docker
+ Databases: Relational Databases, Database Integration, SQL
+ Development Tools: Git, GitHub
+ Software Engineering: API Design, Application Deployment, Testing, Version Control
+Professional Experience
+Software Engineer
+Cloud Applications Ltd. | Birmingham, UK | 2022–2024
+ Developed backend services and REST APIs using Python and FastAPI.
+ Designed API endpoints for applications requiring database access and external service integrations.
+ Worked with databases to store and retrieve application data.
+ Used Git for source control and collaborative software development.
+ Containerised applications using Docker to provide consistent development and deployment environments.
+ Deployed backend applications and services to AWS.Worked on integrating third-party APIs into production applications.
+Projects
+LLM-Powered Application
+ Built an application integrating an external LLM API to provide AI-powered functionality.
+ Developed a Python backend to handle user requests and communicate with the language model API.
+ Designed REST API endpoints for interacting with the application.
+ Implemented error handling and response processing for external API requests.
+ Containerised the application using Docker.
+ Deployed the application to AWS.
+REST API Development
+ Designed and implemented RESTful APIs using Python and FastAPI.
+ Created endpoints for application data retrieval, creation, and updates.
+ Integrated APIs with a database for persistent data storage.
+ Tested API functionality and handled common API errors and validation requirements.
+ Used Git for version control throughout development.
+AWS Application Deployment
+ Deployed Python-based backend applications to AWS.
+ Configured application environments and deployment workflows.
+ Used Docker to package applications for deployment.
+ Monitored deployed services and resolved application-level deployment issues.
+Additional Experience
+Software Engineering Intern Tech Solutions Group | Birmingham, UK | 2021–2022
+ Assisted with Python backend development and API implementation.
+ Worked with databases and SQL queries as part of application development.
+ Used Git-based workflows for managing source code.
+ Supported testing and debugging of backend services.
+ Assisted with deployment and configuration of development applications.
+Certifications
+ AWS Certified Cloud Practitioner Python Programming — Online Certification
+ Docker Fundamentals — Online Certification
+Interests
+Artificial Intelligence, Generative AI, Backend Engineering, Cloud Computing, Software Architecture, Developer Tools

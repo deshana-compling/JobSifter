@@ -1,0 +1,53 @@
+Priya Shah
+Data Scientist / Machine Learning Engineer Manchester, UK priya.shah@example.com +44 1234 567 890 LinkedIn: linkedin.com/in/priyashah
+Profile: Data Scientist with an MSc in Data Science and practical experience applying statistical analysis and machine learning to business problems. Skilled in Python, SQL, pandas, NumPy, scikit-learn, XGBoost, and data visualisation. Experience with AWS & relational databases.
+Qualifications
+MSc Data Science University of Manchester, UK | 2021–2022
+Modules: Statistical Modelling, Machine Learning, Data Mining, Database Systems, Data Visualisation
+BSc Computer Science University of Leeds, UK | 2018–2021
+Skills
+ Programming: Python, SQL
+ Data Analysis: pandas, NumPy, Statistics, Exploratory Data Analysis
+ Machine Learning: scikit-learn, Regression, Classification, XGBoost
+ Visualisation: Matplotlib, Data Visualisation, Dashboard Development
+ Cloud: AWS
+ Databases: Relational Databases, SQL Databases
+Experience
+Junior Data Scientist Data Analytics Solutions Ltd. 2022–2024
+ Analysed customer and sales datasets to identify trends and support business decision-making.
+ Developed machine learning models for classification and regression problems.
+ Used Python, pandas, NumPy, and scikit-learn for data preparation and modelling.
+ Built SQL queries to extract and transform data from relational databases.
+ Created visualisations and dashboards to communicate analytical findings to stakeholders.
+ Experimented with XGBoost for predictive modelling tasks.
+ Contributed to the deployment of data-driven applications using AWS.
+Projects
+Customer Churn Prediction
+ Developed a machine learning model to predict customers at risk of churn.
+ Cleaned and transformed customer-level data using pandas and NumPy.
+ Compared multiple classification algorithms using scikit-learn.
+ Evaluated model performance using appropriate classification metrics.
+ Identified important features associated with customer churn.
+Sales Forecasting
+ Built a forecasting solution to estimate future sales using historical sales data.
+ Performed exploratory data analysis to identify trends and patterns.
+ Compared regression-based approaches and evaluated predictive performance.
+ Presented results through data visualisations and summary dashboards.
+Data Analysis Dashboard
+ Developed an interactive dashboard for exploring business performance metrics.
+ Combined SQL-based data extraction with Python-based analysis.
+ Created visualisations to highlight trends, anomalies, and key performance indicators.
+ Designed the dashboard for use by non-technical business stakeholders.
+Certifications
+ AWS Cloud Practitioner
+ Machine Learning with Python — Online Certification
+ SQL for Data Analysis — Online Certification
+Additional Skills
+ Data Cleaning
+ Exploratory Data Analysis
+ Statistical Analysis
+ Feature Engineering
+ Model Evaluation
+ API Integration
+ Cloud Deployment
+ Technical Documentation

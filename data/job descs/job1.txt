@@ -1,0 +1,49 @@
+NLP Engineer
+
+London, UK
+Full-time
+
+About the Role:
+
+We are looking for a Graduate/Junior NLP Engineer to join our AI team and contribute to the development of applications that process and understand large volumes of text. The successful candidate will work with natural language data, machine learning techniques, and modern NLP technologies to build and evaluate language-focused systems.
+
+This role is suitable for someone with an academic or project background in NLP, computational linguistics, machine learning, or a related field.
+
+Responsibilities:
+
+Develop and evaluate NLP and machine learning models for text-based applications.
+Clean, preprocess, and analyse structured and unstructured text data.
+Build text classification and other language-processing pipelines.
+Experiment with different machine learning approaches and evaluate model performance.
+Work with Python-based NLP and machine learning libraries.
+Contribute to the development of summarisation and other language-processing applications.
+Integrate external language model services where appropriate.
+Document experiments, methodologies, and results.
+Collaborate with engineers and data scientists to integrate NLP components into applications.
+
+Required Qualifications and Skills
+
+Strong programming skills in Python.
+Understanding of Natural Language Processing (NLP) concepts and techniques.
+Knowledge of machine learning fundamentals.
+Experience working with text data, including preprocessing, analysis, or modelling.
+Familiarity with model training and evaluation.
+
+Preferred Qualifications
+
+Experience integrating LLM APIs into applications.
+Familiarity with Retrieval-Augmented Generation (RAG).
+Experience using PyTorch or similar deep learning frameworks.
+Experience with text classification, sentiment analysis, summarisation, or related NLP tasks.
+Degree or postgraduate qualification in NLP, Computational Linguistics, Computer Science, Data Science, or a related discipline.
+
+Tools
+
+Python, NLP libraries, scikit-learn, PyTorch, LLM APIs, machine learning frameworks
+
+What We Offer
+
+Opportunity to work on practical NLP and generative AI applications.
+Exposure to modern language technologies and machine learning workflows.
+Collaborative engineering with a team of experts and an engaging research environment.
+Opportunities for professional development and technical learning.

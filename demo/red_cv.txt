@@ -1,0 +1,34 @@
+Alex Morgan - NLP Engineer / Computational Linguistics Graduate
+London, UK | alex.morgan@example.com | +66 1234 567 890 | LinkedIn: linkedin.com/in/alexmorgan
+Personal Profile
+Computational Linguistics graduate with hands-on experience developing natural language processing applications using Python and modern machine learning frameworks. Experienced in text classification, sentiment analysis, abstractive summarisation, prompt engineering, and integration of LLM APIs. Strong interest in building practical NLP systems and applying language technologies to real-world text processing problems.
+Experience
+NLP Research Assistant — University Project                                                                         2023
+Edinburgh, UK 
+1.	Supported experiments involving text classification and language modelling.
+2.	Prepared and cleaned textual datasets for machine learning experiments.
+3.	Compared model performance across different preprocessing and modelling approaches.
+4.	Documented experimental results and findings.
+Education
+MA Computational Linguistics                                                                                          2022-2023
+University of Edinburgh, UK
+Core Skills
+•	Programming: Python
+•	NLP: Text Classification, Sentiment Analysis, Text Summarisation, Natural Language Processing
+•	Machine Learning: scikit-learn, PyTorch, TensorFlow
+•	LLM Technologies: Prompt Engineering, LLM APIs
+•	Other: Model Evaluation, Text Preprocessing, Feature Engineering
+Personal Projects
+NLP Text Classification Project: 
+1.	Developed a Python-based NLP classification pipeline for categorising unstructured text.
+2.	Performed text preprocessing, feature extraction, model training, and evaluation.
+3.	Used scikit-learn to experiment with multiple classification approaches.
+4.	Evaluated model performance using standard classification metrics.
+Abstractive Text Summarisation
+1.	Built an abstractive summarisation system for generating concise summaries from longer documents. 
+2.	Experimented with neural NLP approaches using PyTorch and TensorFlow.Evaluated generated summaries for relevance, fluency, and information retention.
+LLM-Powered Web Summariser
+1.	Developed an application that retrieves web content and generates concise summaries using an LLM API. 
+2.	Designed prompts to improve consistency and relevance of generated summaries.
+3.	Implemented text extraction and preprocessing before sending content to the language model.
+4.	Built a simple application workflow connecting web content retrieval with LLM-based summarisation.

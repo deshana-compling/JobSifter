@@ -1,0 +1,53 @@
+Data Scientist
+
+Location: Manchester, UK
+Employment Type: Full-time & Part-time
+Experience Level: Mid-level
+Department: Data & Analytics
+
+About the Role
+
+We are seeking a Data Scientist to help transform business data into actionable insights and predictive solutions. You will work across the data science lifecycle, from data preparation and exploratory analysis through to machine learning, model evaluation, and communicating results to stakeholders.
+
+The ideal candidate has a strong foundation in statistics and machine learning and is comfortable working with Python and SQL.
+
+Responsibilities
+
+* Analyse large and complex datasets to identify patterns, trends, and business opportunities.
+* Clean, transform, and prepare data for statistical and machine learning analysis.
+* Develop predictive models for regression and classification problems.
+* Perform exploratory data analysis and investigate relationships within datasets.
+* Evaluate machine learning models using appropriate statistical and performance metrics.
+* Write SQL queries to extract and manipulate data from databases.
+* Develop data visualisations and communicate analytical findings to technical and non-technical stakeholders.
+* Work with other data professionals to improve data pipelines and analytical processes.
+* Contribute to the deployment and monitoring of data science solutions.
+
+Required Qualifications and Skills
+
+* Strong programming ability in **Python**.
+* Strong working knowledge of **SQL**.
+* Understanding of **statistics** and statistical modelling.
+* Knowledge of **machine learning** algorithms and workflows.
+* Practical experience with **pandas** and **scikit-learn**.
+* Experience with data cleaning, exploratory analysis, and model evaluation.
+* Degree or postgraduate qualification in Data Science, Statistics, Computer Science, Mathematics, or a related discipline.
+
+Preferred Qualifications
+
+* Experience working with **cloud platforms**, particularly AWS or similar services.
+* Experience analysing **large datasets**.
+* Knowledge of advanced machine learning techniques such as gradient boosting or XGBoost.
+* Experience creating dashboards or data visualisations.
+* Experience working with relational databases in production environments.
+
+Technical Environment
+
+Python, pandas, NumPy, SQL, scikit-learn, statistical modelling, machine learning, cloud technologies
+
+What We Offer
+
+* Opportunity to work on real-world predictive modelling and analytics projects.
+* Exposure to cloud-based data platforms and modern data science tools.
+* Collaborative environment with data engineers, analysts, and software developers.
+* Opportunities to develop machine learning and statistical modelling expertise.
