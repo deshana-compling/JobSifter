@@ -10,6 +10,11 @@ JobSifter is an **LLM-powered job application assistant** that analyses a candid
 
 **Rather than simply matching keywords**, JobSifter looks at the evidence in the candidate's CV and considers factors such as required and preferred requirements, relevant experience, transferable skills, and role seniority.
 
+## Try the Demo!
+👉 https://jobsifter-ai.streamlit.app/
+
+Demo mode shows precomputed results. No API call is made.
+
 ## What it does
 
 JobSifter takes:
@@ -82,6 +87,13 @@ Gemini
     ↓
 Assessment
 ```
+<<<<<<< HEAD
+=======
+**Here's how it looks!**
+
+<video src="images/live-analysis-mode.mp4" controls width="800"></video>
+
+>>>>>>> e5503ed (Live demo link added)
 To test Live Analysis with your own CV and job description, run the application locally and provide your own Gemini API key. **Here's how you can do that!**
 
 ## Running Locally
