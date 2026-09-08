@@ -87,13 +87,7 @@ Gemini
     ↓
 Assessment
 ```
-<<<<<<< HEAD
-=======
-**Here's how it looks!**
 
-<video src="images/live-analysis-mode.mp4" controls width="800"></video>
-
->>>>>>> e5503ed (Live demo link added)
 To test Live Analysis with your own CV and job description, run the application locally and provide your own Gemini API key. **Here's how you can do that!**
 
 ## Running Locally
