@@ -127,8 +127,6 @@ uv run streamlit run app.py
 
 The Streamlit application will open in your browser. You can then use Live Analysis with your own CV, job description, and Gemini API key.
 
-The Streamlit application will open in your browser.
-
 ## Privacy
 
 Before a CV is sent for analysis, JobSifter redacts:
@@ -145,7 +143,7 @@ This preprocessing reduces the amount of personally identifying information bein
 
 One of the challenges was creating a polished user interface while working within Streamlit's built-in components. I used custom HTML and CSS to improve the layout and visual design, with guidance from a friend and AI tools while learning how to implement these customisations.
 
-Another challenge was designing prompts that encouraged the LLM to make grounded recommendations rather than simply matching keywords. Iterating on the system prompt helped make the assessment more focused on the evidence provided in the CV and job description.
+Another challenge was designing prompts that encouraged the LLM to make grounded recommendations rather than hallucinating & suggestings improvements based on details not specified in the CV. Iterating on the system prompt helped make the assessment more focused on the evidence provided in the CV and job description.
 
 ### Limitations & Future Improvements
 
